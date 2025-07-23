@@ -365,6 +365,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **[Report Bug](https://github.com/yourusername/reblaze-api/issues)** • **[Request Feature](https://github.com/yourusername/reblaze-api/issues)** • **[Documentation](https://github.com/yourusername/reblaze-api/wiki)**
 
+<<<<<<< HEAD
 Made with ❤️ by [Your Name](https://github.com/yourusername)
+=======
+Made with ❤️ by [Team Semicolon](https://github.com/yourusername)
+>>>>>>> 551e2cb (Updated Everythings)
 
 </div>
